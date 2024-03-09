@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     // Main function
     public static void main(String[] args) {
-        // Add your name, PRN, and Batch details in comments here
+        
 
         Scanner scanner = new Scanner(System.in);
 
